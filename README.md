@@ -5,7 +5,7 @@ In this project we will build and evaluate several machine-learning models to pr
 1. [Resampling](#Resampling)
 2. [Ensemble Learning](#Ensemble-Learning)
 
-#### Resampling
+### Resampling
 
 ## Step by step process
 
@@ -29,7 +29,7 @@ Use the above to answer the following:
 >
 > Which model had the best geometric mean score?
 
-#### Ensemble Learning
+### Ensemble Learning
 
 # Step by step process
 
