@@ -51,3 +51,17 @@ Use the above to answer the following:
 > Which model had the best geometric mean score?
 >
 > What are the top three features?
+
+###Results
+
+The credit risk ensemble activity, the objective was to analyze two methods: Balanced Random Forest Classifier and Esay Ensemble Classifier. This last one had grea average precision and recall scores at 0.99 and 1.00, low risks scores were better than high risks, meaning that the model is not good at predicting or assessing high risk credit applicants. Meanwhile, the Balanced random forecast classifier did a little better in recall when trying to predit high risk credit applicants. In a situation where a false negative is a huge concern, balanced random forecast classifier method is a better choice. Random forecast had better gemetric mean score and easy and better overall recall, while easy ensemble classifier had a better precision score.
+
+The goal of the other activity was to analyze among all resampling methods: Random Oversampling, Smote oversampling, undersampling and combination sampling, which one performed better.
+
+Among those three methods:
+
+SMOTE oversampling with 0.5320503523212106 score, is the better accurac score.
+
+Radom Oversampling had the better recall score with avg/total of 0.59.
+
+Undersampling had the best geometric mean score of 0.51.
