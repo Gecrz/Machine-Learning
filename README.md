@@ -52,7 +52,7 @@ Use the above to answer the following:
 >
 > What are the top three features?
 
-###Results
+### Results
 
 The credit risk ensemble activity, the objective was to analyze two methods: Balanced Random Forest Classifier and Esay Ensemble Classifier. This last one had grea average precision and recall scores at 0.99 and 1.00, low risks scores were better than high risks, meaning that the model is not good at predicting or assessing high risk credit applicants. Meanwhile, the Balanced random forecast classifier did a little better in recall when trying to predit high risk credit applicants. In a situation where a false negative is a huge concern, balanced random forecast classifier method is a better choice. Random forecast had better gemetric mean score and easy and better overall recall, while easy ensemble classifier had a better precision score.
 
