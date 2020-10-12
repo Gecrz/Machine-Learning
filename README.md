@@ -7,7 +7,7 @@ In this project we will build and evaluate several machine-learning models to pr
 
 #### Resampling
 
-## Step bt step process
+## Step by step process
 
 1. Load the Lending Club data, split the data into training and testing sets, and scale the features data.
 2. Oversample the data using the `Naive Random Oversampler` and `SMOTE` algorithms.
